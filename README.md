@@ -9,8 +9,6 @@ I believe that the scientific method is an important step to make good data scie
 
 I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand the problem solutions.
 
-I am 
-
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
