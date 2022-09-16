@@ -1,4 +1,4 @@
-🔭Data Specialist and Analytics Engineer
+🔭Data Specialist and Data Scientist
 
 I have studied and worked with Machine Learning applied in agriculture, biology, e-commerce and self service channels for the last 4 years. I am curious about all things that involve Data Analysis, Digital Analytics and applications models for solving problems and, for this reason, I have a large range of skills and knowledge in different areas of data science. 
 
