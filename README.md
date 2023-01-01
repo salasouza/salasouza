@@ -1,14 +1,13 @@
-🔭Data Specialist and Data Scientist
+🔭Data Scientist
 
-I have studied and worked with Machine Learning applied in agriculture, biology, e-commerce and self service channels for the last 4 years. I am curious about all things that involve Data Analysis, Digital Analytics and applications models for solving problems and, for this reason, I have a large range of skills and knowledge in different areas of data science. 
+I've been working with Applied Machine Learning in agriculture, biology, e-commerce and self-service channels for the last 5 years. I'm curious about all things applying models to problem solving, so I've been trying to develop a skill set and knowledge in different areas of data science.
 
-Currently I am working with Digital Analytics (Data Capture and Data Viz) and Analytics Engineer, Google Cloud Platform and algorithms such as k-means to clustering users according to its profile, linear regression and neural network for predicting financial transactions in self service channels. 
+I currently work as a Data Scientist using Google Cloud Platform technologies and unsupervised algorithms such as non-hierarchical and non-hierarchical clustering, factorial and linear regression models and artificial neural networks.
 
-I am interested in understanding the relationship between data and questions using hypothesis tests and how to convert raw data into information and knowledge. 
-I believe that the scientific method is an important step to make good data science and bring great business solutions.
+I'm interested in understanding the relationship between data and questions using hypothesis testing and how to convert raw data into information and knowledge.
+I believe that the scientific method is an important step towards doing good data science and bringing great business solutions.
 
-I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand the problem solutions.
-
+I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand problem solutions.
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
