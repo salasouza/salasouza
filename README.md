@@ -1,13 +1,9 @@
 🔭Data Scientist
 
-I've been working with Applied Machine Learning in agriculture, biology, e-commerce and self-service channels for the last 5 years. I'm curious about all things applying models to problem solving, so I've been trying to develop a skill set and knowledge in different areas of data science.
 
-I currently work as a Data Scientist using Google Cloud Platform technologies and unsupervised algorithms such as non-hierarchical and non-hierarchical clustering, factorial and linear regression models and artificial neural networks.
+I'm a Data Scientist, with 4 years of experience in Data Analyst and Data Analytics. I worked in contexts of precision agriculture, healthcare, e-commerce, ura and self-service channels. I have solid knowledge in Exploratory Data Analysis, Unsupervised Learning, Google Analytics, Google Tag Manager, Pyspark, Python and R. I'm interested in understanding the relationship between data and questions using hypothesis testing and how to convert raw data into information and knowledge.
 
-I'm interested in understanding the relationship between data and questions using hypothesis testing and how to convert raw data into information and knowledge.
-I believe that the scientific method is an important step towards doing good data science and bringing great business solutions.
-
-I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand problem solutions.
+I believe that the scientific method is an important step towards doing good data science and bringing great business solutions. I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand problem solutions.
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
