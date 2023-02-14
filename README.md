@@ -1,9 +1,9 @@
 🔭Data Scientist
 
+My work with data has been marked by a diversity of projects from academics in the areas of biological sciences, health, precision agriculture to the business world with e-commerce, self-service channels and IVR. This gave me a multidisciplinary mind that helps me in the search for solutions to problems. I have a deep interest in learning new things and applying scientific methods to problem solving through experimental design and hypothesis testing using scientific science.
 
-I'm a Data Scientist, with 4 years of experience in Data Analyst and Data Analytics. I worked in contexts of precision agriculture, healthcare, e-commerce, ura and self-service channels. I have solid knowledge in Exploratory Data Analysis, Unsupervised Learning, Google Analytics, Google Tag Manager, Pyspark, Python and R. I'm interested in understanding the relationship between data and questions using hypothesis testing and how to convert raw data into information and knowledge.
-
-I believe that the scientific method is an important step towards doing good data science and bringing great business solutions. I am very interested in experimental design, statistical analysis and multidisciplinary knowledge to better understand problem solutions.
+My main interests are:
+Time series studies, Machine Learning, Deep Learning RNN, LSTM, Python, Pyspark, R , Single and Multiple Linear Regression, Cluster Analysis, Factor Analysis, Wandb, TensorFlow, TensorBoard.
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
