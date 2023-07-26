@@ -1,20 +1,28 @@
-- Data Scientist
+### Data Scientist
 
 My work with data has been marked by a diversity of projects from academic areas, such as biological sciences, health and precision agriculture, to the business world with e-commerce, self-service channels and IVR. This gave me a multidisciplinary mind that helps me in the search for solutions to problems. I have a deep interest in learning new things and applying scientific methods to problem solving through experimental design and hypothesis testing.
 
 
-My main interests are:
-
+### My main interests are:
+```
 Time series studies, 
 Machine Learning, 
 Deep Learning RNN, LSTM, 
-Python, R , 
 Single and Multiple Linear Regression, 
 Cluster Analysis, 
 Factor Analysis,
 TensorFlow and TensorBoard.
+```
+### Set languages
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,r,bash,js)](https://skillicons.dev)
 
-- Stats
+
+### Set tools
+ 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,tensorflow,figma,linux,azure)](https://skillicons.dev)
+
+### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salasouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salasouza&layout=compact&theme=dracula)
