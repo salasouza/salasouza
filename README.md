@@ -13,14 +13,21 @@ Cluster Analysis,
 Factor Analysis,
 TensorFlow and TensorBoard.
 ```
-### Set languages
+### Languages
  
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,js)](https://skillicons.dev)
 
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,gcp" />
+  </a>
+</p>
 
 ### Stats
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salasouza&theme=dracula&line_height=40&hide=css"/> </a>
+
 
 
 <!--
