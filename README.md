@@ -5,7 +5,7 @@ My work with data has been marked by a diversity of projects from academic areas
 
 
 ### My main interests are:
-```
+
 Time series studies, 
 Machine Learning, 
 Deep Learning RNN, LSTM, 
@@ -13,7 +13,7 @@ Single and Multiple Linear Regression,
 Cluster Analysis, 
 Factor Analysis,
 TensorFlow and TensorBoard.
-```
+
 ### Languages
  
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,js)](https://skillicons.dev)
