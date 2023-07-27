@@ -18,14 +18,10 @@ TensorFlow and TensorBoard.
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,js)](https://skillicons.dev)
 
 
-### Set tools
- 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,tensorflow,figma,linux,azure)](https://skillicons.dev)
-
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salasouza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salasouza&layout=compact&theme=dracula)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salasouza&theme=dracula&line_height=40&hide=css"/> </a>
+
 
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
