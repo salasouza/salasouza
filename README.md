@@ -29,8 +29,9 @@ TensorFlow and TensorBoard.
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salasouza&theme=dracula&line_height=40&hide=css"/> </a>
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salasouza&repo=lstmbit)](https://github.com/salasouza/lstmbit)
-
+--> 
 <!--
 **salasouza/salasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
