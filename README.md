@@ -4,9 +4,9 @@ I have been working with Data Science since 2018 with expertise in time series, 
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
-<li>🎓 B.Sc. Biological Sciences and M.Sc. Biology of microorganism -  [UESC]</li>
+<li>🎓 B.Sc. Biological Sciences - [UESC]</li>
 <li>🎓 phD Student in Ecology (Stand By) - [Unicamp]</li>
-<li>🎓 Master of Business Administration with enphaysis in Temporal Series [USP/Esalq]</li>
+<li>🎓 Master of Business Administration with enphaysis in Temporal Series - [USP/Esalq]</li>
 <li>🚀 Data Scientist/Data Developer in Ciandt (CI&T)</li>
 <li>📌 Current working with Python, SQL and Pyspark</li>
 <li>💬 If you have any question or just wanna talk about data science, contact me</li>
@@ -21,7 +21,7 @@ I have been working with Data Science since 2018 with expertise in time series, 
 ### My set skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,bash,js,sqlite,git,docker,vscode,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=python,r,bash,js,sqlite,html,sklearn,git,linux,docker,vscode,gcp,azure" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@ I have been working with Data Science since 2018 with expertise in time series, 
 <!--
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salasouza&theme=dracula&line_height=40&hide=css"/> </a>
 -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=salasouza&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salasouza&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=salasouza&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salasouza&repo=lstmbit)](https://github.com/salasouza/lstmbit)
