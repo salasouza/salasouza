@@ -8,7 +8,7 @@ I have been working with Data Science since 2018 with expertise in <b>time serie
 <li>🎓 phD Student in Ecology (Stand By) - [Unicamp]</li>
 <li>🎓 Master of Business Administration with enphaysis in Temporal Series - [USP/Esalq]</li>
 <li>🚀 Data Scientist/Data Developer in Ciandt (CI&T)</li>
-<li>📌 Current working with Python, SQL and Pyspark</li>
+<li>📌 Current working with Python, R, SQL and Pyspark</li>
 <li>💬 If you have any question or just wanna talk about data science, contact me</li>
 </ul>
 
