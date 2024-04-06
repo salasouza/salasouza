@@ -6,7 +6,7 @@ I have been working with Data Science since 2018 with expertise in <b>time serie
 <li>🌍 I'm based in SP, Brazil</li>
 <li>🎓 B.Sc. Biological Sciences - [UESC]</li>
 <li>🎓 phD Student in Ecology (Stand By) - [Unicamp]</li>
-<li>🎓 Master of Business Administration with enphaysis in Temporal Series - [USP/Esalq]</li>
+<li>🎓 Master of Business Administration with enphaysis in Machine Learning - [USP/Esalq]</li>
 <li>🚀 Data Scientist/Data Developer in Ciandt (CI&T)</li>
 <li>📌 Current working with Python, R, SQL and Pyspark</li>
 <li>💬 If you have any question or just wanna talk about data science, contact me</li>
