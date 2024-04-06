@@ -1,3 +1,5 @@
+#  Data Scientist
+
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
 I have been working with Data Science since 2018 with expertise in <b>time series</b>, <b>hypothesis testing</b> and application of the <b>family of linear models</b> to problems in precision agriculture, ecommerce and self-service channels. The main technologies I use are <code>Python</code>,<code>SQL</code>,<code>R</code> and <code>Pyspark</code> always trying to apply a scientific methodology and a systematic work framework to solve problems. 
