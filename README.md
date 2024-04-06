@@ -1,33 +1,35 @@
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
-### Data Scientist
 
-My work with data has been marked by a diversity of projects from academic areas, such as biological sciences, health and precision agriculture, to the business world with e-commerce, self-service channels and IVR. This gave me a multidisciplinary mind that helps me in the search for solutions to problems. I have a deep interest in learning new things and applying scientific methods to problem solving through experimental design and hypothesis testing.
+I have been working with Data Science since 2018 with expertise in time series, hypothesis testing and application of the family of linear models to problems in precision agriculture, ecommerce and self-service channels. The main technologies I use are Python, R and Pyspark always trying to apply a scientific methodology and a systematic work framework to solve problems. 
+
+🌍 I'm based in SP, Brazil
+🎓 B.Sc. Biological Sciences and M.Sc. Biology of microorganism -  [UESC]
+🎓 phD Student in Ecology (Stand By) - [Unicamp]
+🎓 Master of Business Administration with enphaysis in Temporal Series [USP/Esalq]
+🚀 Data Scientist/Data Developer in Ciandt (CI&T))
+📌 Current working with Python, SQL and Pyspark
+💬 If you have any question or just wanna talk about data science, contact me
 
 
-### My main interests are:
-
-Time series studies, 
-Machine Learning, 
-Deep Learning RNN, LSTM, 
-Single and Multiple Linear Regression, 
-Cluster Analysis, 
-Factor Analysis,
-TensorFlow and TensorBoard.
-
+<!--
 ### Languages
  
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,js)](https://skillicons.dev)
+-->
 
-### Tools
+### My set skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,r,bash,js,sqlite,git,docker,vscode,gcp,azure" />
   </a>
 </p>
 
 ### Stats
-
+<!--
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salasouza&theme=dracula&line_height=40&hide=css"/> </a>
+-->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=salasouza&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salasouza&langs_count=5&theme=tokyonight)]()
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salasouza&repo=lstmbit)](https://github.com/salasouza/lstmbit)
