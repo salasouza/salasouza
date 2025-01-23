@@ -2,14 +2,12 @@
 
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
-Data Scientist with +5 years of experience developing data-driven solutions in precision agriculture, ecommerce and self-service channels. I have strong knowledge in predictive modeling, data processing and Data Mining algorithms. I regularly work with Python and R scripts, focusing on advanced architectures such as <code>LSTM</code>, <code>GRU</code>, <code>CNN</code>, as well as econometric models such as ARIMA and GARCH. I have experience in building <code>ARIMA-LSTM</code> hybrid models applied to the financial sector.
+Data Scientist with solid experience in predictive modeling, using the scientific method to approach and solve complex problems in different business contexts, such as precision agriculture, self-service channels, building user profiles and financial markets. Ability to formulate hypotheses, collect and analyze data, apply advanced machine learning techniques and validate models to generate valuable insights and strategic solutions that optimize processes and assist in decision making.
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
-<li>🎓 B.Sc. Biological Sciences - [UESC]</li>
-<li>🎓 phD Student in Ecology (Stand By) - [Unicamp]</li>
-<li>🎓 Master of Business Administration with enphaysis in Machine Learning - [USP/Esalq]</li>
-<li>📌 Current working with Python, R, SQL and Pyspark</li>
+<li>🎓 Postgraduate Lato Sensu in Data Science and Analytics- [Esalq?USP]</li>
+<li>📌 Current working with Machine Learning and Deep Learning to time series in finance context </li>
 <li>💬 If you have any question or just wanna talk about data science, contact me</li>
 </ul>
 
