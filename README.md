@@ -2,7 +2,7 @@
 
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
-Data Scientist with solid experience in predictive modeling, using the scientific method to approach and solve complex problems in different business contexts, such as <code>precision agriculture</code>, <code>self-service channels</code>, building <code>user profiles</code> and <code>financial markets</code>. Ability to formulate hypotheses, collect and analyze data, apply advanced machine learning techniques and validate models to generate valuable insights and strategic solutions that optimize processes and assist in decision making.
+Data Scientist with +5 years of experience in the data area in different business models such as: <code>precision agriculture</code>, <code>e-commerce</code>, <code>self-service channels</code> and <code>financial market</code>. I currently work with time series models and recurrent neural networks for asset price prediction.
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
