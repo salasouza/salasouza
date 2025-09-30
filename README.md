@@ -2,7 +2,7 @@
 
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
-Data Scientist with +5 years of experience in the data area in different business models such as: <code>precision agriculture</code>, <code>e-commerce</code>, <code>self-service channels</code> and <code>financial market</code>. I currently work with time series models and recurrent neural networks for asset price prediction.
+Data Scientist with over 5 years of experience in the data field, working across diverse business models such as precision agriculture, e-commerce, self-service channels, and the financial market. Currently focused on statistical modeling and machine learning, applied to financial asset operations and product pricing strategies.
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
