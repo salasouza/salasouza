@@ -6,7 +6,7 @@ Data Scientist with over 5 years of experience in the data field, working across
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
-<li>🎓 Postgraduate Lato Sensu in Data Science and Analytics- [Esalq/USP]</li>
+<li>🎓 Postgraduate in Data Science and Analytics- [Esalq/USP]</li>
 <li>📌 Current working with Machine Learning and Deep Learning to time series in finance context </li>
 <li>💬 If you have any question or just wanna talk about data science, contact me</li>
 </ul>
