@@ -2,7 +2,7 @@
 
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
-Data Scientist with +5 years of experience in the data field, working across diverse business models such as precision agriculture, e-commerce, self-service channels, and the financial market. Currently focused on statistical modeling and machine learning, applied to financial asset operations and products pricing.
+Data Scientist with over 5 years of experience in the data field, working across diverse business models such as precision agriculture, e-commerce, self-service platforms, and the financial market. Currently focused on statistical modeling and machine learning, applied to financial asset operations and product pricing.
 
 <ul>
 <li>🌍 I'm based in SP, Brazil</li>
