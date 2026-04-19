@@ -2,13 +2,11 @@
 
 ![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
 
-Data Scientist with over 5 years of experience in the data field, having worked across diverse business models such as precision agriculture, e-commerce, self-service platforms, and the financial market. Currently focused on statistical modeling and machine learning applied to financial asset operations and product pricing.
-
 <ul>
-<li>🌍 I'm based in SP, Brazil</li>
+<!-- <li>🌍 I'm based in SP, Brazil</li> -->
 <li>🎓 Postgraduate in Data Science and Analytics- [Esalq/USP]</li>
-<li>📌 Current working with Machine Learning and Deep Learning to time series in finance context </li>
-<li>💬 If you have any question or just wanna talk about data science, contact me</li>
+<!-- <li>📌 Current working with Machine Learning and Deep Learning to time series in finance context </li> -->
+<!-- <li>💬 If you have any question or just wanna talk about data science, contact me</li> -->
 </ul>
 
 <!--
