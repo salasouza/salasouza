@@ -1,7 +1,5 @@
 #  Data Scientist
 
-![Top Langs](https://komarev.com/ghpvc/?username=salasouza&label=PROFILE+VIEWS)
-
 <ul>
 <!-- <li>🌍 I'm based in SP, Brazil</li> -->
 <li>🎓 Postgraduate in Data Science and Analytics- [Esalq/USP]</li>
