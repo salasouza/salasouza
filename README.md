@@ -18,16 +18,17 @@ I’m focused on impactful applications that drive product success and business 
 </div><br>
 
 <div align="justify">
-My main expertise lies in applied science and scientific methodologies to solve complex problems across different contexts, alongside the end-to-end development of Machine Learning systems. I'm also expanding my skills into Python backend development, APIs, and data architecture, while exploring AI Engineering and AI-assisted workflows.
+My main expertise lies in applied science and <b>Scientific Methodologies</b> to solve complex problems across different contexts, alongside the end-to-end development of <b>Machine Learning Systems</b>. I'm also expanding my skills into <b>Python Backend Development</b>, <b>APIs</b>, and <b>Data Architecture</b>, while exploring <b>AI Engineering</b> and <b>AI-assisted</b> workflows.
 </div>
 
 ### 🎯 Main Interests
-* 📈 Designing Machine Learning systems for quantitative trading
+* 📈 Designing Machine Learning Systems for quantitative trading
 * 🔌 APIs and Backend Development
 * 🏗️ Data Architecture
 * 🤖 AI Engineering
 
 ### 🚀 Currently Focused On
+* Go Backend Development
 * Data Architecture and Python Backend
 * System Design for Machine Learning
 * AI-driven development:
